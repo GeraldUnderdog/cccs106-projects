@@ -4,7 +4,7 @@ Academic Year 2025-2026
 
 ## Student Information
 - **Name:** [Parro, Carl Gerald J.]
-- **Student ID:** 231002334]
+- **Student ID:** [231002334]
 - **Program:** [BSCS]
 - **Section:** [3A]
 
@@ -48,26 +48,3 @@ cd week2_labs
 # Run applications
 python hello_flet.py
 python personal_info_gui.py
-Commit and push README.md
-
-# Add the updated README.md file to the staging area
-# This stages the modified README.md file so it will be included in the next commit
-# Git tracks changes to this file and prepares it for version control
-git add README.md
-
-# Commit the staged changes with a descriptive message
-# Creates a permanent snapshot of the README.md updates in the repository history
-# The commit message should clearly describe what was changed for future reference
-git commit -m "Update README.md with new application information"
-
-# Push the committed changes to the remote GitHub repository
-# Synchronizes your local main branch with the remote repository on GitHub
-# This makes your updated README.md visible to others and backs up your changes
-git push origin main
-Learning Progress
-✅ Python environment setup and configuration
-✅ Basic Python programming concepts
-✅ Git version control fundamentals
-✅ Flet GUI framework basics
-✅ Interactive application development
-🔄 Advanced GUI components (in progress)
